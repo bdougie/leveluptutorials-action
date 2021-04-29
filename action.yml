@@ -1,0 +1,8 @@
+name: assign-an-issue
+description: this action will assign an issue
+runs:
+  using: docker
+  image: Dockerfile
+branding:
+  icon: align-justify
+  color: gray-dark
